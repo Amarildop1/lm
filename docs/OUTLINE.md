@@ -375,7 +375,7 @@
 * Como centralizamos um parágrafo de largura pré-definida?
 * Qual é a melhor maneira de definir altura de um Box sem gerar problemas de alinhamento vertical?
 * É possível deixar uma borda arredonda nas quinas?
-* Como funcionar a sombra para um Box?
+* Como funciona a sombra para um Box?
 * Como apresentar uma tabela em uma grid contínua sem espaçamento entre as bordas?
 
 **Exercício:**
@@ -446,7 +446,7 @@
 
 **Reflexão:**
 * Qual é a vantagem de usar recursos da Web em uma página?
-* O que o Github Pages e como publicamos uma página estática lá?
+* O que é o Github Pages e como publicamos uma página estática lá?
 
 **Exercício:**
 * Teste algum [Web Resource](https://ifpb.github.io/lm/html-guide/html/web-resourse/) em seu projeto.
@@ -559,7 +559,7 @@
 * O que é Mobile First?
 * Como definir um Design Responsivo?
 * O Flexbox ou o CSS Grid podem ajudar na configuração de um Design Responsivo?
-* Os Navegadores possuem algum recursos para testar a responsividade de um site?
+* Os Navegadores possuem algum recurso para testar a responsividade de um site?
 
 **Exercício:**
 * [Cards responsivos](https://ifpb.github.io/lm/css-exercises/css/cards-responsive/)
@@ -582,7 +582,7 @@
 * O que é Mobile First?
 * Como definir um Design Responsivo?
 * O Flexbox ou o CSS Grid podem ajudar na configuração de um Design Responsivo?
-* Os Navegadores possuem algum recursos para testar a responsividade de um site?
+* Os Navegadores possuem algum recurso para testar a responsividade de um site?
 
 **Exercício:**
 * [Cubo Network](https://ifpb.github.io/lm/css-exercises/challenges/css/cubonetwork-responsive/)
