@@ -14,7 +14,7 @@
   * Industrious: [responsivo](css/industrious-responsive) e [animação](css/industrious-animation)
   * [Pokedex](css/pokedex)
 * Packages
-  * Boostrap
+  * Bootstrap
     * [Host Monitor](packages/bootstrap/host-monitor/)
     * [eZ Server Monitor](packages/bootstrap/ez-server-monitor/)
     * [Pingdom Monitor](packages/bootstrap/pingdom-monitor/)
