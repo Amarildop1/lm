@@ -1,6 +1,6 @@
 # Packages
 
 * Bootstrap
-  * [Dashborad Amdin](dashboard-admin/)
+  * [Dashborad Admin](dashboard-admin/)
   * [Form login](form-login/)
   * [IMC](imc/)
